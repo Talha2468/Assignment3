@@ -1,0 +1,121 @@
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(26, 73, 117);
+    color: rgb(255, 255, 255);
+
+}
+ul{
+    font-size: 20px;
+    list-style: none;
+    display: flex;
+    letter-spacing: 20px;  
+    align-items: center; 
+    font-family: Anton SC;
+    
+}
+.s1{
+    margin: 20px;
+    font-size: 50px;
+    height: 50px;
+    font-family: Lobster;
+}
+.s2{
+    font-family: Lobster;
+    font-size: 50px;
+    height: 50px;
+    margin: 20px;
+}
+main{
+    font-size: 25px;
+    background-color: rgb(189, 212, 255);
+    font-family: Ga Maamli;
+    text-align: center;
+}
+.apple{
+    width: 450px;
+}
+.banana{
+    width: 450px;
+}
+.carrot{
+    width: 450px;
+}
+.dog{
+    width: 450px;
+}
+.elephant{
+    width: 450px;
+}
+.fish{
+    width: 450px;
+}
+.gold{
+    width: 450px;
+}
+.house{
+    width: 450px;
+}
+.iron{
+    width: 450px;
+}
+.jug{
+    width: 450px;
+}
+.kite{
+    width: 450px;
+}
+.lemon{
+    width: 450px;
+}
+.mouse{
+    width: 450px;
+}
+.nuts{
+    width: 450px;
+}
+.orange{
+    width: 450px;
+}
+.pigeon{
+    width: 450px;
+}
+.quail{
+    width: 450px;
+}
+.rabbit{
+    width: 450px;
+}
+.snake{
+    width: 450px;
+}
+.tea{
+    width: 450px;
+}
+.umbrella{
+    width: 450px;
+}
+.viollin{
+    width: 450px;
+}
+.watch{
+    width: 450px;
+}
+.xray{
+    width: 450px;
+}
+.yocht{
+    width: 450px;
+}
+.zebra{
+    width: 450px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    cursor: pointer;
+    color: rgb(255, 109, 109);
+}
